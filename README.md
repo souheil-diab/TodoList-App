@@ -17,6 +17,10 @@ This is a simple Todo List application built with React and Redux Toolkit.
 - Axios
 - CSS Grid for layout
 
+## Live Demo
+
+Check out the live demo of the application [here](https://todo-list-app-ten-dun.vercel.app/).
+
 
 ## Getting Started
 Follow these steps to clone the repository, install dependencies, and run the application locally.
